@@ -2,10 +2,12 @@
 
 현재 화면의 시작 구조와 개선안 4종을 실제로 눌러보며 비교하는 단일 HTML 프로토타입입니다.
 
-## 바로 보기
+## 지금 바로 보기
 
-- GitHub Pages: https://dalmook.github.io/jbkiosk_ui/
-- Pages가 아직 준비 중이면 HTML Preview: https://htmlpreview.github.io/?https://github.com/dalmook/jbkiosk_ui/blob/main/index.html
+- 즉시 실행: https://htmlpreview.github.io/?https://github.com/dalmook/jbkiosk_ui/blob/main/index.html
+- GitHub Pages 주소: https://dalmook.github.io/jbkiosk_ui/
+  - 저장소 `Settings → Pages → Source: GitHub Actions`를 한 번 선택한 뒤 사용합니다.
+  - 배포 워크플로는 이미 `.github/workflows/pages.yml`에 포함되어 있습니다.
 
 ## 비교 시안
 
